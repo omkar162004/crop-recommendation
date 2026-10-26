@@ -1,0 +1,45 @@
+{
+  "climate": {
+    "22.57,88.36": {
+      "lat": 22.57,
+      "lon": 88.36,
+      "value": {
+        "temperature": 29.1,
+        "humidity": 81.9,
+        "rainfall": 302.2
+      },
+      "saved_at": 1792851492.8142958
+    },
+    "-90.0,-180.0": {
+      "lat": -90.0,
+      "lon": -180.0,
+      "value": {
+        "temperature": -52.3,
+        "humidity": 67.0,
+        "rainfall": 3.9
+      },
+      "saved_at": 1792851439.7381482
+    },
+    "19.07,72.88": {
+      "lat": 19.07283,
+      "lon": 72.88261,
+      "value": {
+        "temperature": 29.0,
+        "humidity": 75.2,
+        "rainfall": 325.2
+      },
+      "saved_at": 1792852859.03056
+    },
+    "21.15,79.08": {
+      "lat": 21.14631,
+      "lon": 79.08491,
+      "value": {
+        "temperature": 30.3,
+        "humidity": 59.8,
+        "rainfall": 126.9
+      },
+      "saved_at": 1793002217.9806173
+    }
+  },
+  "soil": {}
+}

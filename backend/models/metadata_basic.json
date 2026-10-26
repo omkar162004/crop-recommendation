@@ -1,0 +1,53 @@
+{
+  "feature_set": "basic",
+  "model": "random_forest",
+  "macro_f1": 0.9608,
+  "features": [
+    "temperature",
+    "humidity",
+    "rainfall",
+    "ph"
+  ],
+  "classes": [
+    "apple",
+    "banana",
+    "blackgram",
+    "chickpea",
+    "coconut",
+    "coffee",
+    "cotton",
+    "grapes",
+    "jute",
+    "kidneybeans",
+    "lentil",
+    "maize",
+    "mango",
+    "mothbeans",
+    "mungbean",
+    "muskmelon",
+    "orange",
+    "papaya",
+    "pigeonpeas",
+    "pomegranate",
+    "rice",
+    "watermelon"
+  ],
+  "feature_ranges": {
+    "temperature": [
+      8.825674745,
+      43.67549305
+    ],
+    "humidity": [
+      14.25803981,
+      99.98187601
+    ],
+    "rainfall": [
+      20.21126747,
+      298.5601175
+    ],
+    "ph": [
+      3.504752314,
+      9.93509073
+    ]
+  }
+}
